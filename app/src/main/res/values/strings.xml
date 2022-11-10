@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Le Quiz</string>
+    <string name="numero">Numero</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="mauvaisrep">Mauvaise Reponse</string>
+    <string name="acceuil">Retour à l\'acceuil</string>
+    <string name="partager">Partager</string>
+    <string name="message">Message</string>
+    <string name="retour">Retour</string>
+    <string name="donation">Donation</string>
+    <string name="payer">Payer</string>
+    <string name="entrersomme">Entrer une somme</string>
+    <string name="demarrer">Demarrer le quizz</string>
+</resources>
